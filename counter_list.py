@@ -1,7 +1,9 @@
 #coding:utf8
 
+
 def counter_list():
-  return
+  data = {}
+  return data
 
 
 if __name__ == "__main__":
